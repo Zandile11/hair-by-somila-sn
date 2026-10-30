@@ -85,7 +85,7 @@ on this project:
 - Add real pictures of the hair products.
 - Make the design more attractive and user-friendly.
 - Add customer contact information.
-- Implement a functional checkout process.
+- Implement a functional checkout process.`
 - Allow customers to place orders.
 - Improve the shopping experience on different screen sizes.
 Author
